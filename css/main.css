@@ -15,6 +15,7 @@ html {
 }
 
 .grains li {
+  display: inline-block;
 
 }
 
