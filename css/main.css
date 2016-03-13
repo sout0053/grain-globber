@@ -25,8 +25,12 @@ html {
 
 .grains h2 {
   font-size: 1rem;
+  padding-left: 7rem;
+  margin: 0;
 }
 
 .grains p {
   font-style: italic;
+  padding-left: 7rem;
+  margin-top: 0;
 }
