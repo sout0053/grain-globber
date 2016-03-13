@@ -16,7 +16,6 @@ html {
 
 .grains li {
   display: block;
-
 }
 
 .grains img {
@@ -29,5 +28,5 @@ html {
 }
 
 .grains p {
-
+  font-style: italic;
 }
