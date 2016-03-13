@@ -21,6 +21,8 @@ html {
 .grains img {
   width: 100px;
   float: left;
+  clear: both;
+  padding-bottom: 1.5rem;
 }
 
 .grains h2 {
